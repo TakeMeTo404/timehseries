@@ -1,0 +1,10 @@
+.line {
+    fill: none;
+    stroke-width: 2;
+    stroke: blue;
+}
+
+.area {
+    fill: cornflowerblue;
+    fill-opacity: 0.2
+}

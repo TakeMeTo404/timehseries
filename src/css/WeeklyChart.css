@@ -1,0 +1,6 @@
+.line-path{
+    fill: none;
+    stroke: blue;
+    stroke-width: 2;
+    stroke-linejoin: round;
+}
